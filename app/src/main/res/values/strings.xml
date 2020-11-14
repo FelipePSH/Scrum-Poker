@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Poker Agile</string>
+    <string name="text_infinito">1</string>
+    <string name="textZero">0</string>
+    <string name="textMeio">1/2</string>
+    <string name="textUm">1</string>
+    <string name="textDois">2</string>
+    <string name="textTres">3</string>
+    <string name="textCinco">5</string>
+    <string name="textOito">8</string>
+    <string name="textTreze">13</string>
+    <string name="textVinte">20</string>
+    <string name="textQuarenta">40</string>
+    <string name="textCem">100</string>
+    <string name="textInterrogacao">?</string>
+</resources>
